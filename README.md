@@ -1,5 +1,6 @@
 # CS_Spro
 Client-Server Implementation using Socket Programming  
+Tranfer Files from Server to Clients at one go.
 
 # Steps:
 
